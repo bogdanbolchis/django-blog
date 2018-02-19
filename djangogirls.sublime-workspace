@@ -1,0 +1,236 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"console",
+				"console_log"
+			],
+			[
+				"class",
+				"className\t: DOMString Element"
+			],
+			[
+				"rcc",
+				"rcc\tReact: legacy component"
+			],
+			[
+				"consol",
+				"console_log"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"ui ",
+				"UI: Select Color Scheme"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/bogdanbolchis/Developer/django/djangogirls"
+	],
+	"file_history":
+	[
+		"/Users/bogdanbolchis/Library/Application Support/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
+		"/Users/bogdanbolchis/.sync-settings.log",
+		"/Users/bogdanbolchis/Library/Application Support/Sublime Text 3/Packages/Sync Settings/SyncSettings.sublime-settings",
+		"/Users/bogdanbolchis/Developer/Learn-Redux-Starter-Files-master/18/reduxstagram.js",
+		"/Users/bogdanbolchis/Developer/Learn-Redux-Starter-Files-master/learn-redux/client/components/Photo.js",
+		"/Users/bogdanbolchis/Developer/Learn-Redux-Starter-Files-master/learn-redux/client/components/PhotoGrid.js",
+		"/Users/bogdanbolchis/Developer/Learn-Redux-Starter-Files-master/learn-redux/client/reducers/index.js",
+		"/Users/bogdanbolchis/Developer/Learn-Redux-Starter-Files-master/learn-redux/client/store.js",
+		"/Users/bogdanbolchis/Developer/Learn-Redux-Starter-Files-master/learn-redux/client/reduxstagram.js",
+		"/Users/bogdanbolchis/Developer/Learn-Redux-Starter-Files-master/learn-redux/client/components/App.js",
+		"/Users/bogdanbolchis/Developer/Learn-Redux-Starter-Files-master/learn-redux/client/components/Main.js",
+		"/Users/bogdanbolchis/Library/Application Support/Sublime Text 3/Packages/Terminal/Default (OSX).sublime-keymap",
+		"/Users/bogdanbolchis/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/bogdanbolchis/Library/Application Support/Sublime Text 3/Packages/User/Terminal (OSX).sublime-settings",
+		"/Users/bogdanbolchis/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/bogdanbolchis/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/bogdanbolchis/Developer/Learn-Redux-Starter-Files-master/learn-redux/node_modules/react/dist/react-with-addons.js",
+		"/Users/bogdanbolchis/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/bogdanbolchis/Developer/Learn-Redux-Starter-Files-master/learn-redux/package.json",
+		"/Users/bogdanbolchis/Developer/Learn-Redux-Starter-Files-master/learn-redux/client/components/main.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "djangogirls.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"posts",
+				"client/reducers/posts.js"
+			],
+			[
+				"redux",
+				"client/reduxstagram.js"
+			],
+			[
+				"main.",
+				"client/components/Main.js"
+			],
+			[
+				"pack",
+				"package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
